@@ -1,6 +1,6 @@
 
 
-# 📄 README: Customer Segmentation Project - SBI Life Insurance
+# 📄 Customer Segmentation Project - SBI Life Insurance
 
 ## 🔍 Overview
 
@@ -40,8 +40,6 @@ The dataset contains information about SBI Life Insurance customers, including:
 | Marital Status | Marital status of the customer |
 | Education | Educational qualification of the customer |
 | Product Interest | Products/services the customer has shown interest in |
-
-> Note: If real data isn't available, synthetic datasets can be used for demonstration purposes.
 
 ---
 
@@ -96,7 +94,7 @@ Based on the segmentation, we aim to provide:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/customer_segmentation_sbi.git
+git clone https://github.com/Firdous-co/customer_segmentation_sbi.git
 cd customer_segmentation_sbi
 ```
 
